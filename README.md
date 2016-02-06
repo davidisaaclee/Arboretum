@@ -20,9 +20,6 @@ it, simply add the following line to your Podfile:
 pod "Arboretum"
 ```
 
-## Author
-
-David Lee, aewofij@gmail.com
 
 ## License
 
